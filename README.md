@@ -3,6 +3,7 @@ Using Tableau to perform Citibike data visualizations provided by Citi Bike (htt
 All the csv files, along with the fixed csv files, were re-loaded into Tableau Public, however, due to limitations and performance issues from the Tableau Public version, only a certain amount of datasets were able to be analyzed.
 The chosen datasets were of 2017 citibike data. More year datasets will be added if necessary, and if a Tableau program higher than Tableau Public can be utilized.
 <hr>
+Python edits on citibike data: citibike.ipynb
 Citibike Tableau visualizations can be found here: https://public.tableau.com/profile/clarence.li#!/vizhome/citibike_15553745127280/2017_table?publish=yes
 <hr>
 Languages used: Python
