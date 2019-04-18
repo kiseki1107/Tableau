@@ -4,6 +4,7 @@ All the csv files, along with the fixed csv files, were re-loaded into Tableau P
 The chosen datasets were of 2017 citibike data. More year datasets will be added if necessary, and if a Tableau program higher than Tableau Public can be utilized.
 <hr>
 Python edits on citibike data: citibike.ipynb
+<hr>
 Citibike Tableau visualizations can be found here: https://public.tableau.com/profile/clarence.li#!/vizhome/citibike_15553745127280/2017_table?publish=yes
 <hr>
 Languages used: Python
